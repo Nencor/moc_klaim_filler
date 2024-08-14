@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "asuransimurnicom",
+  "private_key_id": "dbad806636f495d8f161964a8624c3b6e2b57199",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXUYjOj6dJ/qCj\n9bDHw5wTGYVZNtBR0zTr3Yjr5/LcNe6B5qYVVFTejnFVXkqAocKUENnwK6yEBB/L\n0ShHnZ9PnDSmRACeQZIPSbBzfaoz0ryllg6vX2dku1djD7TTeqqXer1mniQGg8zq\nW4tt4gGq3H2SsTkVP4x+gnAm/yro6mAdCPULQ5VJRxI+A4eZBNhRSmFBQM7B8f7f\niCeOtUaow0mBx0SpGz+fk9AI9BNNPuDLXU4+ffpL9dh6mRE7Fr+jNm/yU0BI0Pln\nnqx0Jt2UMExSbFeflEq3oHgJ6weyLC8deYfvC8Vq+9QwxjCDQJ2L5kFX/wEzNurv\n2bsOUOitAgMBAAECggEACL9NXcd/H69pAOFojTu5D3+Xrk8VXs2LTyE4045Ogz1Y\n4sh/DFeaKl1onss7GlF/ioio2JHlwKHuZp1aKz2o4nTAtGXU9VEMDPcxDJQUnTdO\n8XGJusiUlQWhaRgU127NYsFVJpP4uCmxVFDjcAAzIXnqhmrZRmmsiPmoWxDAHcOr\n8YgMip6sR3beP+6zAtODX19C3OK5YRk404cuOMoJlNHXgqF9UtxyFB75TF/zQWV2\nCT+0mucghmmbFGVRBJCMgkw/FAgFjne86fov4GIgkpvpBBYZe00qKR/nNrvlZVet\nnkG/U8BtVOUMafFST4zBpqpeIza55zTgO1o1xqbG/wKBgQDM9+qqdaQtdGGXx5ic\ncbJsNd/V/QqP8IRS5bbGesRypgEjrp1MO/3FJb0FPKHOnj9+JzFsEYkPAxS8Dz4A\nmWpbL31oyTT1T9fyfKY8LBxQ5OP4M3oMcQstdg/oUIDhuZSEO82wrUa4o4g8bs/F\nNPNiz/vzOPmGAasoCI1r2pn30wKBgQC8/iEXN7cytcTkzVHi+b4NcffStwMtF5iV\n7iCXcT3NbpwmRBQLy8RAoQccvZLb9LfdK6wuOLuFUIGY43k9+yKsfsDxP4u4pORk\nOLTO2E8jl8iwJ8prytsMi8oLCRwGd0ljDk/vnfSu5glQRCA6zBWJKF5XVuEvyWWw\nK55EQ7nNfwKBgBhlCVDwX3HpgBQIdWlpPssSPmnBjBhFj/otzOsigW8Dwu70QVRp\nb3KfYzfUV4231+az03YBQEbBHx6i0cZQfBAOPubRy7PGpPT/UOmodlZKZ7eKqOQC\nMEpg2tPTgQNciwiR9ZEpjlk7XWOT7LaT7sO77UitZ0VDvZMuMWa8xcZxAoGAZzrU\nLk9jhJJekq9HnBfX5JYszG7kkDvEP5jLOo1DObPCHPCwlmTdtIOAVAWEcxpvV6Jk\nMPcSDlaUA0O01NMY9Glj0CJqmhePHOMQd68VQxbEKtwBJ/GsxmSQnoiCQ1HixvVp\nWjPIE8RYr/wWMqeI19sx9Lji1WxHW/vnPdhUY9cCgYEAo0mIKM/kqs1JBavxuevN\nU+CWSOjKYEQSUpA4tTTt1Db/4g+srczQFqIivFh1HC5iUgXOPLUP238Ehx1Q46nG\ntXr5z0BOb7mjgt/DyZIGeeosjv7Ht8ebAD+aUR79sA4lo9g8wcBbRGvyXmCt28IH\nLjuR1XgmdkEa1can2w4Jy/Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "asuransimurnicom-dev@asuransimurnicom.iam.gserviceaccount.com",
+  "client_id": "114739907474934411869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asuransimurnicom-dev%40asuransimurnicom.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
